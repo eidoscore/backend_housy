@@ -1,4 +1,4 @@
-testing edit readme jenkins 12:15
+testing edit readme jenkins 12:22
 How to deploy housy-backend :
 - Install node.js 10.x
 - Change config/config.json to your database
